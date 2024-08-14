@@ -1,7 +1,13 @@
-print('asbasbjcdj')
-print('asbasbjcdscldsmldnskvnj')
+from  Tetsik import *
 
-def testing():
-    print('Test 001')
+class MyTest(Test):
+    def __init__(self):
+        super().__init__()
+        self.prit = 'PrInT'
 
-testing()
+    def prt(self):
+        print(self.prit)
+
+
+cls = MyTest()
+cls.prt()
