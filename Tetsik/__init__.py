@@ -7,3 +7,6 @@ def abobus():
 
 def skdjalksdjlk():
     pass
+
+def skdjlk():
+    pass
