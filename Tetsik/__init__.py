@@ -4,3 +4,6 @@ class Test():
 
 def abobus():
     pass
+
+def skdjalksdjlk():
+    pass
