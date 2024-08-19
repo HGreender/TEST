@@ -10,3 +10,6 @@ def skdjalksdjlk():
 
 def skdjlk():
     pass
+
+def new_branch():
+    pass
